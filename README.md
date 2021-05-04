@@ -1,2 +1,2 @@
 # BrewPiDefinedState
-BrewPi plugin for defined GPO states
+Craftbeer Pi plugin for defined GPO states
